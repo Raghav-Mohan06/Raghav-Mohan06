@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghavendran Mohan</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">>>>print("Hello World!!😎✌️")</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
 
@@ -16,6 +16,7 @@
 <a href="https://stackoverflow.com/users/raghav mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raghav mohan" height="30" width="40" /></a>
 <a href="https://instagram.com/itz_raghav1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_raghav1064" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@raghavmohan6104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raghavmohan6104" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/raghav_1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav_1064" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
