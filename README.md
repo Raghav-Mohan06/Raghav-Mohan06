@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghavendran Mohan</h1>
-<h3 align="center">A passionate Computer Science engineering student from India</h3>
+<h3 align="center">A passionate Data Scientist student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
 
@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/itz_raghav1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_raghav1064" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@raghavmohan6104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raghavmohan6104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
