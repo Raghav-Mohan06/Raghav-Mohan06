@@ -9,7 +9,9 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 📫 How to reach me **raghavmohan6104@gmail.com**
+- 📫 Reach me through **raghavmohan6104@gmail.com**
+
+- 🤑 Fun fact- **If there is code,there is a bug🪲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
