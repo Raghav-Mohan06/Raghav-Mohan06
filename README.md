@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Mohan</h1>
-<h3 align="center">"In theory,theory and practice are the same. But in practice,they are not."</h3>
+<h3 align="center">"In theory,theory and practice are the same.But in practice,they are not."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
 
