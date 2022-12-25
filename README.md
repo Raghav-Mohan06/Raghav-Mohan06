@@ -1,5 +1,13 @@
+[![MasterHead](https://media.tenor.com/S7fBzpUYjoAAAAAd/banner.gif)](https://Raghav-Mohan.io)
 <h1 align="center">Hi 👋, I'm Raghav Mohan</h1>
-<h3 align="center">"In theory,theory and practice are the same.But in practice,they are not."</h3>
+<h3 align="center">"In theory,theory and practice are the same.But in practice,they are not."</h3><img align='right' alt='' width=400 src="">
+
+
+- 🌱 I’m currently learning **Data Science**
+
+- 📫 Reach me through **raghavmohan6104@gmail.com**
+
+- 🤑 Fun fact- **If there is code,there is a bug🪲**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
 
@@ -7,11 +15,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 Reach me through **raghavmohan6104@gmail.com**
-
-- 🤑 Fun fact- **If there is code,there is a bug🪲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
