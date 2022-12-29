@@ -1,6 +1,6 @@
 [![MasterHead]()](https://Raghav-Mohan.io)
 <h1 align="center">Hi 👋, I'm Raghav Mohan</h1>
-<h3 align="center">"In theory,theory and practice are the same.But in practice,they are not."</h3><img align='right' alt='' width=400 src="">
+<h3 align="center">""</h3><img align='right' alt='' width=400 src="">
 
 
 - 🌱 I’m currently learning **Data Science**
