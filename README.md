@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Raghav Mohan</h1>
+[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://Raghav-Mohan.io)
+<h1 align="center">Hi 👋, I'm Raghav Mohan
 <h3 align="center">I'm an aspiring Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
