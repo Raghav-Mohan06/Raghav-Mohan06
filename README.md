@@ -1,32 +1,61 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)](https://Raghav-Mohan.io)
-<h1 align="center">Hi 👋, I'm Raghav Mohan
-<h3 align="center">I'm an aspiring Computer Science Engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&pause=1000&color=C118CF&center=true&vCenter=true&width=1300&lines=WELCOME+TO+MY+GITHUB+PROFILE)](https://git.io/typing-svg)
+![Markdown logo](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat" alt="raghav-mohan06" /> </p>
+# Hey there👋
+ **I'm Raghav Mohan**, I'm an aspiring computer engineering student from Chennai. I always likes to learn new things, so that it keeps me motivated and focused.And the one thing that i always wanted is to be  a better person than myself yesterday.
+<img align="right" height="300" src="https://camo.githubusercontent.com/eb8663d9969ef4332a2189ca176091e8e787ea1fe3cf073c696725e2da1d289d/68747470733a2f2f63646e2e6265726b736d626c2e636f6d2f6461667470756e6b746f6361742d6775792e676966">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghav-mohan06" alt="raghav-mohan06" /></a> </p>
+ ## **About me**🛸
+ * 🚀I'm currently learning **Data science**
+ * 👉I'm intrested in Data science, Machine Learning, Blockchain & Frontend development
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ * 📨Reach me through  raghavmohan6104@gmail.com
 
-- 🌱 I’m currently learning **Data Science**
+ * ✌️Fact : I may be boring, But I'm never bored
 
-- 📫 Reach me through **raghavmohan6104@gmail.com**
+ 
+ ## **Connect with me🤝**
+ ![@raghavmohan6104](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)<!---->![raghav_1064](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)<!---->![raghav mohan](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)<!---->![itz_raghav1064](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+## **Languages & Tools⚙️**
+## Programming Languages⌨️
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<!---->![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)<!---->![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+## Frontend Development📲
+![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<!---->![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<!---->![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+## Frameworks & Libraries🖼️
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<!---->![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)<!---->![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)<!---->![scikit-learn](https://img.shields.io/badge/scikit--learn-%23EE4C2C.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)<!---->![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-- 🤑 Fun fact- **I may be boring, but I'm never bored**
+## Databases & Cloud Hosting📃
+![MySQL](https://img.shields.io/badge/mysql-%23DD0031.svg?style=for-the-badge&logo=mysql&logoColor=white)<!---->![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)<!---->![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/raghav mohan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raghav mohan" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_raghav1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_raghav1064" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@raghavmohan6104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raghavmohan6104" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/raghav_1064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raghav_1064" height="30" width="40" /></a>
-</p>
+## Workspace👨‍💻
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Softwares & Tools🪟
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<!---->![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<!---->![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<!---->![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)<!---->![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)<!---->![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)<!---->![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghav-mohan06&show_icons=true&locale=en&layout=compact" alt="raghav-mohan06" /></p>
+![raghav-mohan06](https://komarev.com/ghpvc/?username=raghav-mohan06&label=Profile%20views&color=0e75b6&style=flat)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghav-mohan06&show_icons=true&locale=en" alt="raghav-mohan06" /></p>
+ ![raghav-mohan06](https://github-readme-stats.vercel.app/api?username=raghav-mohan06&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghav-mohan06&" alt="raghav-mohan06" /></p>
+![raghav-mohan06](https://github-readme-streak-stats.herokuapp.com/?user=raghav-mohan06&)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
